@@ -1,0 +1,76 @@
+{
+  "Profesores": [
+    {
+      "nombre": "Javier",
+      "Apellido": "Cervantes",
+      "Materias": [
+        {
+          "Nombre": "NodeJS"
+        },
+        {
+          "Nombre": "ReactJS"
+        },
+        {
+          "Nombre": "JavaScript"
+        }
+      ],
+      "id": "e712"
+    },
+    {
+      "id": "b115"
+    },
+    {
+      "id": "8bc2",
+      "nombre": "felipe",
+      "Apellido": "cruz",
+      "Materias": [
+        {
+          "Nombre": "Quimica"
+        },
+        {
+          "Nombre": "Biologia"
+        }
+      ]
+    }
+  ],
+  "Alumnos": [
+    {
+      "Nombre": "Noel",
+      "Apellido0": "Lopez",
+      "Promedio": 8.2,
+      "id": "8867"
+    },
+    {
+      "Nombre": "Ricardp",
+      "Apellido0": "Celaya",
+      "Promedio": 6,
+      "id": "4a29"
+    },
+    {
+      "id": "f7a5",
+      "Nombre": "midu",
+      "Apellido0": "Dev",
+      "Promedio": 10
+    }
+  ],
+  "Cursos": [
+    {
+      "Nombre": "NodeJS desde cero",
+      "Duracion": 7,
+      "Dificuldad": "Intermedio",
+      "id": "9211"
+    },
+    {
+      "Nombre": "React desde cero",
+      "Duracion": 8,
+      "Dificuldad": "Intermedio",
+      "id": "780f"
+    },
+    {
+      "Nombre": "JavaScript desde cero",
+      "Duracion": 9,
+      "Dificuldad": "Intermedio",
+      "id": "b3f3"
+    }
+  ]
+}
